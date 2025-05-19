@@ -17,7 +17,7 @@ cyan       = "#658594"
 comment    = "#727169"
 
 # ─── Fonts ───────────────────────────────────────────────────────────────────
-c.fonts.default_family = "Berkeley Mono"
+# c.fonts.default_family = "JetBrains Mono"
 c.fonts.default_size   = "14pt"
 
 # ─── Completion ──────────────────────────────────────────────────────────────
