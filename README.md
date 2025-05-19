@@ -2,6 +2,7 @@
 Kanagawa theme for qutebrowser
 
 ![browser](./images/browser.jpg)
+![browser2](./images/browser2.jpg)
 
 
 I feel like this awesome theme for such awesome browser was missing on GitHub 
