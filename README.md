@@ -1,13 +1,13 @@
 # qutebrowser-kanagawa
 Kanagawa theme for qutebrowser
 
-[browser](/images/browser.jpg)
+[browser](./images/browser.jpg)
 
 I feel like this awesome theme for such awesome browser was missing on GitHub 
 so I tried to create the one. I was trying to match it with my Kanagawa theme for Neovim
 
 
-[nvim](/images/nvim.jpg)
+[nvim](./images/nvim.jpg)
 
 # Installation
 There is none :) Just copy-paste the contents of theme.py file to your config.py file, 
